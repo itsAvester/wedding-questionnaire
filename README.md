@@ -48,7 +48,7 @@ export const siteConfig = {
   eyebrow: "SAVE THE DATE",
   weddingDate: "August 21st, 2027",
   location: "Colorado",
-  responseDeadline: "October 15, 2026",
+  responseDeadline: "October 31, 2026",
   intro: "...",
 };
 ```
